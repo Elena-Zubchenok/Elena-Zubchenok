@@ -1,7 +1,8 @@
-## Hi there 👋
+## Hi there
 
-![Static Badge](https://img.shields.io/badge/LinkedIn?style=social&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Felena-zubchenok-800772311%2F)
+I'm a beginner C++ programmer.
 
+My LinkedIn is *[here](https://www.linkedin.com/in/elena-zubchenok-800772311/)*.
 
 <!--
 **Elena-Zubchenok/Elena-Zubchenok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
